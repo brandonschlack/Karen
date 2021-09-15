@@ -1,4 +1,4 @@
-# Cordillera
+# Karen
 
 ![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)
 
@@ -7,10 +7,10 @@
 
 ## About
 
-The Cordillera PCB is an open design PCB heavily based on the Alice PCB. The only breaking change is the USB connector which renders it unusable on most Alice cases.
+The Karen PCB is an open design PCB forked from Cordillera, which is based on the Alice PCB.
 
 - STM32F072 controller
-- USB C connector mounted at the top
+- USB Mini connector mounted at the top
 - ESD, over voltage, and over current protection circuits
 - Dual common cathode diodes instead of single ones
 - Backlight, single color
@@ -19,10 +19,6 @@ The Cordillera PCB is an open design PCB heavily based on the Alice PCB. The onl
 ## Dependencies
 
 Symbols and footprints used are from my [KiCad library](https://github.com/coarse/KiCad-Keeb-Lib)
-
-## Notes
-
-- Original Alice uses USB Mini, so this PCB may be incompatible with some Alice cases
 
 ## Disclaimer
 
